@@ -1,0 +1,11 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+autopep8
+channels 
+daphne
+channels_redis
+websocket-client
+celery
+redis
+django-celery-results
